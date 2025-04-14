@@ -1,3 +1,9 @@
 [submodule "src/f1tenth_system"]
 	path = src/f1tenth_system
-	url = https://github.com/f1tenth/f1tenth_system.git
+	url = https://github.com/Nick-Zhang1996/f1tenth_system
+[submodule "src/f1tenth_gym_ros"]
+	path = src/f1tenth_gym_ros
+	url = https://github.com/f1tenth/f1tenth_gym_ros
+[submodule "src/dcsl_f1tenth"]
+	path = src/dcsl_f1tenth
+	url = git@github.com:Nick-Zhang1996/dcsl_f1tenth.git

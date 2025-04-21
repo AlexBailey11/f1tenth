@@ -9,4 +9,4 @@
 	url = git@github.com:Nick-Zhang1996/dcsl_f1tenth.git
 [submodule "src/autoware_auto_msgs"]
 	path = src/autoware_auto_msgs
-	url = https://gitlab.com/autowarefoundation/autoware.auto/autoware_auto_msgs
+	url = https://github.gatech.edu/zzhang615/autoware_auto_msgs.git

@@ -8,7 +8,7 @@
 	branch = main
 [submodule "src/dcsl_f1tenth"]
 	path = src/dcsl_f1tenth
-    url = https://github.gatech.edu/zzhang615/dcsl_f1tenth.git
+    url = https://github.gatech.edu/abailey82/dcsl_f1tenth.git
 	branch = master
 [submodule "src/autoware_auto_msgs"]
 	path = src/autoware_auto_msgs

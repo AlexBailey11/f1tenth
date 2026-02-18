@@ -1,7 +1,7 @@
 [submodule "src/f1tenth_system"]
 	path = src/f1tenth_system
-	url = https://github.com/Nick-Zhang1996/f1tenth_system
-	branch = humble-devel
+	url = https://github.com/AlexBailey11/f1tenth_system.git
+	branch = team2_ws
 [submodule "src/f1tenth_gym_ros"]
 	path = src/f1tenth_gym_ros
 	url = https://github.com/Nick-Zhang1996/f1tenth_gym_ros
